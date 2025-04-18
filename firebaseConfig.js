@@ -9,13 +9,13 @@ import {getFirestore, collection} from 'firebase/firestore'
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDguwuXftPWvYysPN4qlQCJxfJ0d-baRQA",
+  apiKey: "###########################",
   authDomain: "app-nocturnal.firebaseapp.com",
   projectId: "app-nocturnal",
   storageBucket: "app-nocturnal.firebasestorage.app",
   messagingSenderId: "164031274488",
-  appId: "1:164031274488:web:d190767346094db082ca0d",
-  measurementId: "G-2494L7349T"
+  appId: "###############################",
+  measurementId: "###############"
 };
 
 // Initialize Firebase
